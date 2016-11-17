@@ -2,4 +2,4 @@
 Tower of Hanoi game in a GUI
 
 
-The TowersAnim file is the main to execute.
+The TowersAnim file is the main file to execute.
